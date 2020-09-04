@@ -1,4 +1,4 @@
 def reverseString(text):
-    print(text[::-1])
+    return(text[::-1])
 
-reverseString('abcdef')
+x = reverseString('abcdef')
