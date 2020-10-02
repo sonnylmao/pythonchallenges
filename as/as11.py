@@ -1,6 +1,6 @@
 import random
 
-choice = ['ILike','Mydadlikes','Mymomlikes','Mysisterlikes','Mybrother','Mydoglikes']
+choice = ['ILike','Mydadlikes','Mymomlikes','Mysisterlikes','Mybrotherlikes','Mydoglikes']
 ranobject = ['dogs','cats','toys','ipads','games','balls']
 
 ranphrase = []
